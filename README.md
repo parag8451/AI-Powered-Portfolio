@@ -8,6 +8,12 @@
   <br />
 
   <h1>🌐 World's First AI-Powered Portfolio 🤖✨</h1>
+
+  <p>
+    <a href="https://ai-powered-portfolio-hhtog8xoz-parag1617.vercel.app">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -33,7 +39,7 @@ Static portfolios are a thing of the past. They present a one-sided, lifeless vi
 
 This project is an **AI-powered, interactive portfolio** that transforms the "About Me" page into a dynamic, engaging conversation. Instead of forcing recruiters, developers, and friends to scroll endlessly through information, it invites them to ask questions and receive answers tailored specifically to them.  
 
-It’s a portfolio that doesn't just show—it communicates.
+It's a portfolio that doesn't just show—it communicates.
 
 ---
 
@@ -141,6 +147,8 @@ This project is open-sourced under the **MIT License**. See the [LICENSE](LICENS
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Live_Demo-parag.bio-2ea44f?style=for-the-badge&logo=vercel)](https://www.parag.bio)
+&nbsp;
+[![Vercel Deploy](https://img.shields.io/badge/Vercel_Preview-ai--powered--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-powered-portfolio-hhtog8xoz-parag1617.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-singh-77601827a/)
 
