@@ -1,10 +1,6 @@
 <div align="center">
 
   <br />
-  <p>
-    <a href="https://www.parag.bio"><img src="assets/readme-photo.png" alt="AI Portfolio Banner" width="100%"/></a>
-  </p>
-  <br />
 
   <p>
     <img src="public/projects/ai-portfolio-home.png" alt="AI Powered Portfolio hero" width="100%"/>
