@@ -19,14 +19,14 @@
 ### **Badges**
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/parag8451/parag1_portfolio?style=for-the-badge" alt="Repo Size">
-  <img src="https://img.shields.io/github/license/parag8451/parag1_portfolio?style=for-the-badge" alt="License">
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+  <img src="https://img.shields.io/github/repo-size/parag8451/ai-native-portfolio?style=for-the-badge" alt="Repo Size">
+  <img src="https://img.shields.io/github/license/parag8451/ai-native-portfolio?style=for-the-badge" alt="License">
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15"></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19"></a>
   <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployment"></a>
-  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"></a>
-  <a href="https://mistral.ai/"><img src="https://img.shields.io/badge/Mistral-FF7E00?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral API"></a>
-  <a href="https://github.com/parag8451/parag1_portfolio/stargazers"><img src="https://img.shields.io/github/stars/parag8451/parag1_portfolio?style=for-the-badge&color=ffd700" alt="Repo Stars"></a>
-  <a href="https://github.com/parag8451/parag1_portfolio/graphs/contributors"><img src="https://img.shields.io/github/contributors/parag8451/parag1_portfolio?style=for-the-badge&color=ff69b4" alt="Contributors"></a>
+  <a href="https://mistral.ai/"><img src="https://img.shields.io/badge/Mistral_AI-FF7E00?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral API"></a>
+  <a href="https://github.com/parag8451/ai-native-portfolio/stargazers"><img src="https://img.shields.io/github/stars/parag8451/ai-native-portfolio?style=for-the-badge&color=ffd700" alt="Repo Stars"></a>
+  <a href="https://github.com/parag8451/ai-native-portfolio/graphs/contributors"><img src="https://img.shields.io/github/contributors/parag8451/ai-native-portfolio?style=for-the-badge&color=ff69b4" alt="Contributors"></a>
 </p>
 
 ---
@@ -55,10 +55,11 @@ It’s a portfolio that doesn't just show—it communicates.
 
 | **Category**      | **Technology**                                                                                                        |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Frontend**      | [Next.js](https://nextjs.org/), [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Framer Motion](https://www.framer.com/motion/) |
-| **Backend**       | [Node.js](https://nodejs.org/), Next.js API Routes                                                                     |
-| **AI & APIs**     | [OpenAI API](https://openai.com/), [Mistral API](https://mistral.ai/), [GitHub API](https://docs.github.com/en/rest)      |
-| **Deployment**    | [Vercel](https://vercel.com/)                                                                                         |
+| **Frontend**      | [Next.js 15](https://nextjs.org/), [React 19](https://react.dev/), [Tailwind CSS v4](https://tailwindcss.com/), [Framer Motion](https://www.framer.com/motion/), [shadcn/ui](https://ui.shadcn.com/) |
+| **Backend**       | [Node.js](https://nodejs.org/), Next.js App Router API Routes                                                           |
+| **AI & APIs**     | [Vercel AI SDK](https://sdk.vercel.ai/), [Mistral API](https://mistral.ai/), [GitHub API](https://docs.github.com/en/rest) |
+| **Effects**       | [tsparticles](https://particles.js.org/), FluidCursor (WebGL), Glassmorphism                                             |
+| **Deployment**    | [Vercel](https://vercel.com/) with Analytics                                                                            |
 | **Package Manager**| [pnpm](https://pnpm.io/)                                                                                              |
 
 ---
@@ -77,8 +78,8 @@ Want to get this project running on your local machine? Follow these simple step
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/parag8451/parag1_portfolio.git
-    cd parag1_portfolio
+    git clone https://github.com/parag8451/ai-native-portfolio.git
+    cd ai-native-portfolio
     ```
 
 2.  **Install dependencies:**
@@ -121,10 +122,13 @@ For security issues, see [SECURITY.md](SECURITY.md).
 
 ### **Roadmap** 🗺️
 
--   [ ] Add more AI personality "modes"
--   [ ] Integrate a project showcase with live demos
--   [ ] Implement a light/dark theme toggle
--   [ ] Add multilingual support for the AI chat
+-   [x] Interactive AI chat with tool-based responses
+-   [x] Project showcase with 3D card carousel
+-   [x] Light/dark theme toggle
+-   [x] Cinematic animations and 4K-ready design
+-   [ ] Add more AI personality modes
+-   [ ] Multilingual support for the AI chat
+-   [ ] Voice input for AI conversation
 
 ---
 
