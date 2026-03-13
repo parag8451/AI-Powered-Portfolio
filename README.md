@@ -21,14 +21,14 @@
 ### **Badges**
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/parag8451/ai-native-portfolio?style=for-the-badge" alt="Repo Size">
-  <img src="https://img.shields.io/github/license/parag8451/ai-native-portfolio?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/repo-size/parag8451/AI-powered-portfolio?style=for-the-badge" alt="Repo Size">
+  <img src="https://img.shields.io/github/license/parag8451/AI-powered-portfolio?style=for-the-badge" alt="License">
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15"></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19"></a>
   <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployment"></a>
   <a href="https://mistral.ai/"><img src="https://img.shields.io/badge/Mistral_AI-FF7E00?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral API"></a>
-  <a href="https://github.com/parag8451/ai-native-portfolio/stargazers"><img src="https://img.shields.io/github/stars/parag8451/ai-native-portfolio?style=for-the-badge&color=ffd700" alt="Repo Stars"></a>
-  <a href="https://github.com/parag8451/ai-native-portfolio/graphs/contributors"><img src="https://img.shields.io/github/contributors/parag8451/ai-native-portfolio?style=for-the-badge&color=ff69b4" alt="Contributors"></a>
+  <a href="https://github.com/parag8451/AI-powered-portfolio/stargazers"><img src="https://img.shields.io/github/stars/parag8451/AI-powered-portfolio?style=for-the-badge&color=ffd700" alt="Repo Stars"></a>
+  <a href="https://github.com/parag8451/AI-powered-portfolio/graphs/contributors"><img src="https://img.shields.io/github/contributors/parag8451/AI-powered-portfolio?style=for-the-badge&color=ff69b4" alt="Contributors"></a>
 </p>
 
 ---
@@ -80,8 +80,8 @@ Want to get this project running on your local machine? Follow these simple step
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/parag8451/ai-native-portfolio.git
-    cd ai-native-portfolio
+    git clone https://github.com/parag8451/AI-powered-portfolio.git
+    cd AI-powered-portfolio
     ```
 
 2.  **Install dependencies:**
